@@ -1,19 +1,19 @@
 # Python-for-Data-Science-and-Machine-Learning-Bootcamp
-# Course content:
-Programming with Python
-NumPy with Python
-Using pandas Data Frames to solve complex tasks
-Use pandas to handle Excel Files
-Web scraping with python
-Connect Python to SQL
-Use matplotlib and seaborn for data visualizations
-Use plotly for interactive visualizations
-Machine Learning with SciKit Learn, including:
-Linear Regression
-K Nearest Neighbors
-K Means Clustering
-Decision Trees
-Random Forests
-Natural Language Processing
-Neural Nets and Deep Learning
-Support Vector Machines
+Course content: <br>
+Programming with Python<br>
+NumPy with Python<br>
+Using pandas Data Frames to solve complex tasks<br>
+Use pandas to handle Excel Files<br>
+Web scraping with python<br>
+Connect Python to SQL<br>
+Use matplotlib and seaborn for data visualizations<br>
+Use plotly for interactive visualizations<br>
+Machine Learning with SciKit Learn, including:<br>
+Linear Regression<br>
+K Nearest Neighbors<br>
+K Means Clustering<br>
+Decision Trees<br>
+Random Forests<br>
+Natural Language Processing<br>
+Neural Nets and Deep Learning<br>
+Support Vector Machines<br>
